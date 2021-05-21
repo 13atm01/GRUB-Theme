@@ -17,6 +17,15 @@
 </p>
 
 ## :wrench: Installation
+- :one: <b>First installation way</b>
+
+You can git clone this repository `git clone https://github.com/13atm01/GRUB-Theme.git` -->> open terminal in the GRUB Theme folder you want to install -->> `sudo ./install.sh` -->> `sudo update-grub` -->> then reboot your PC
+
+- :two: <b>Second installation way</b>
+
+Download file from my [Pling/Gnome-look](https://www.gnome-look.org/p/1526503/) -->> extract it -->> open terminal in the GRUB Theme folder you want to install -->> `sudo ./install.sh` -->> `sudo update-grub` -->> then reboot your PC
+
+- ℹ️ <b>I suggest the second step, download the file on my website [Pling/Gnome-look](https://www.gnome-look.org/p/1526503/) to support me 🙂</b>
 
 ## :gift_heart: Thanks to
 
