@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-880174602" title="GRUB Theme"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dek172i-bd274b61-653e-42fc-bcd4-079562e6cb1c.png/v1/fill/w_1163,h_687,strp/grub_theme_by_13andi01_dek172i-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTQ4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZWsxNzJpLWJkMjc0YjYxLTY1M2UtNDJmYy1iY2Q0LTA3OTU2MmU2Y2IxYy5wbmciLCJ3aWR0aCI6Ijw9MTYwNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vyeeX6r7WAsYIrAwIliyD9ZKi3J9Np6z5Eg-04r5_Ks" width="70%"></a>
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-880174602" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dek172i-bd274b61-653e-42fc-bcd4-079562e6cb1c.png/v1/fill/w_1163,h_687,strp/grub_theme_by_13andi01_dek172i-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTQ4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZWsxNzJpLWJkMjc0YjYxLTY1M2UtNDJmYy1iY2Q0LTA3OTU2MmU2Y2IxYy5wbmciLCJ3aWR0aCI6Ijw9MTYwNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.vyeeX6r7WAsYIrAwIliyD9ZKi3J9Np6z5Eg-04r5_Ks" width="70%"></a>
 </p>
 
 ## :art: Preview theme <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/GRUB-Theme?style=plastic&label=&color=faa8fb&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/> 
@@ -29,7 +29,7 @@ Download file from my [Pling/Gnome-look](https://www.gnome-look.org/p/1526503/) 
 
 ## :gift_heart: Thanks to
 
-<a href="https://www.deviantart.com/13andi01"><img src="https://i.ibb.co/1R2BgfK/Quintuples07.png" width="57%" title="🇮🇩 Thank a lot for supporting me 🙂" align="right"></a>
+<a href="https://www.deviantart.com/13andi01"><img src="https://i.ibb.co/1R2BgfK/Quintuples07.png" width="57%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
