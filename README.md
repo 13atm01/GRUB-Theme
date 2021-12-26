@@ -86,6 +86,7 @@
 
 <a href="https://www.deviantart.com/13andi01"><img src="https://i.ibb.co/1R2BgfK/Quintuples07.png" width="57%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 
+- [DuckDuckGo](https://duckduckgo.com/)
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
 - [GNU GRUB](https://www.gnu.org/software/grub/)
