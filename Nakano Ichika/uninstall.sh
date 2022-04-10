@@ -45,7 +45,7 @@ prompt () {
 
 # Welcome message
   prompt -s "\n\t          **********************************\n\t          * Nakano Ichika Bootloader Theme *\n\t          **********************************\n"
-prompt -s "\n\t            Grub theme by Andi Trisna Mukti \n \n"   
+prompt -s "\n\t            GRUB Theme by Andi Trisna Mukti \n \n"
 
 
  
