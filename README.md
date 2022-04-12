@@ -37,6 +37,21 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Itsuki-Christmas-Version-901856049" title="❤️ Nakano Itsuki ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dewxwkx-51830ea3-9163-476d-99b5-47afdeda4b0b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGV3eHdreC01MTgzMGVhMy05MTYzLTQ3NmQtOTliNS00N2FmZGVkYTRiMGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.54LCmqDTod4OYzviTVEAQfAr16m6-e0ZVBhzU1Jv6Yo" width="49%"></a>
 </p>
 
+##
+##
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-VTuber-version-912599545" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c6bd-b424792c-6ad2-45a9-838f-9d80bf215259.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzZiZC1iNDI0NzkyYy02YWQyLTQ1YTktODM4Zi05ZDgwYmYyMTUyNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U4rBsMDu-w8gQhkdu9S_95rQRB3SWzeNiwpAbB6jUyM" width="62%"></a>
+</p>
+
+## :art: Preview theme
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="88%"></a>
+</p>
+
+##
+
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
@@ -54,33 +69,37 @@
     cd GRUB-Theme
     ```
 
- - Change to the Nakano directory you want to install, for eg:
+ - Change to the directory you want to install, for eg:
 
     ```
     cd "Nakano Miku"
     ```
  - Setup the new GRUB
 
+    ```sh
+    sudo ./install.sh                       #if error try "sudo sh ./install.sh"
     ```
-    sudo ./install.sh
+    ```
     sudo update-grub
     ```
  - Reboot your PC
 
 ### :two: <b>Second installation way</b>
 
-- Download file from my [Pling/Gnome-look](https://www.gnome-look.org/p/1526503/)
+- Download file from my Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)),([VTuber Version](https://www.gnome-look.org/p/1760905/))
 - Extract it
 - Open terminal in the GRUB Theme folder you want to install
 - Setup the new GRUB
 
+    ```sh
+    sudo ./install.sh                       #if error try "sudo sh ./install.sh"
     ```
-    sudo ./install.sh
+    ```
     sudo update-grub
     ```
 - Reboot your PC
 
-- ℹ️ <b>I suggest the second step, download the file on my website [Pling/Gnome-look](https://www.gnome-look.org/p/1526503/) to support me 🙂</b>
+- ℹ️ <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)),([VTuber Version](https://www.gnome-look.org/p/1760905/)) to support me 🙂</b>
 
 ## :gift_heart: Thanks to
 
@@ -97,3 +116,17 @@
 - [DeviantArt](https://www.deviantart.com/)
 - [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart/)
 - [Linux Indonesia](https://www.facebook.com/groups/2628445374043698/)
+
+## :gift_heart: And big thanks to
+
+<a href="https://twitter.com/suisei_hosimati"><img src="https://i.ibb.co/mDN3fSP/Hoshimati-Suisei03.png" width="20%" title="❤️ Follow her Twitter ❤️" align="right"></a>
+
+### My Friend Chen Si Jing
+
+- [Twitter](https://twitter.com/YuuJinS_CSJ)
+- [GitHub](https://github.com/YuuJinS)
+
+### VTuber Hoshimati Suisei
+
+- [Twitter](https://twitter.com/suisei_hosimati)
+- [YouTube](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A/about)
