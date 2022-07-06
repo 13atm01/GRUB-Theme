@@ -1,4 +1,4 @@
-# Copyright (C) 2021 Andi Trisna Mukti - 13atm01
+# Copyright (C) 2022 Andi Trisna Mukti - 13atm01
 # GRUB2 gfxmenu Linux theme
 
 # Global Property
