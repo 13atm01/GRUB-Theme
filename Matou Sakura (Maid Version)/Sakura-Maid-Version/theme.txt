@@ -18,7 +18,7 @@ message-color: "#fd262e"
 # Show the boot menu
 + boot_menu {
   left = 11%
-  top = 29%
+  top = 30%+3
   width = 52%
   height = 58%
   item_font = "Terminus Regular Bold 16"
