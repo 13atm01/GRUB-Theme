@@ -51,6 +51,11 @@
 </p>
 
 ##
+##
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Fate-Series-version-921845338" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8ucey-8654e856-7a32-4abb-9fa2-a8d939833d6f.png/v1/fill/w_1267,h_631,strp/grub_theme__fate_series_version__by_13andi01_df8ucey-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2NCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGY4dWNleS04NjU0ZTg1Ni03YTMyLTRhYmItOWZhMi1hOGQ5Mzk4MzNkNmYucG5nIiwid2lkdGgiOiI8PTQzNDMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.AvVKrxv4LuAVIou4GxSFe-NVlo8ucVM2QSmc4qPOSi4" width="85%"></a>
+</p>
 
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
