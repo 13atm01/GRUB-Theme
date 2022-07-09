@@ -57,6 +57,19 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Fate-Series-version-921845338" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8ucey-8654e856-7a32-4abb-9fa2-a8d939833d6f.png/v1/fill/w_1267,h_631,strp/grub_theme__fate_series_version__by_13andi01_df8ucey-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2NCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGY4dWNleS04NjU0ZTg1Ni03YTMyLTRhYmItOWZhMi1hOGQ5Mzk4MzNkNmYucG5nIiwid2lkdGgiOiI8PTQzNDMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.AvVKrxv4LuAVIou4GxSFe-NVlo8ucVM2QSmc4qPOSi4" width="85%"></a>
 </p>
 
+## :art: Preview theme (Artoria Pendragon)
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Artoria-Lancer-Version-921847985" title="❤️ Artoria Pendragon ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8uegh-113287cf-a928-4375-a70a-a168eb084db5.png/v1/fill/w_1192,h_670,q_70,strp/grub_theme_artoria__lancer_version__by_13andi01_df8uegh-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh1ZWdoLTExMzI4N2NmLWE5MjgtNDM3NS1hNzBhLWExNjhlYjA4NGRiNS5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.nXc5Wv7VZvutqXGx7umRjyyS-hLh3A7fcI3nMN9tib4" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Artoria-Celebration-Dress-Version-921876504" title="❤️ Artoria Pendragon ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v0go-59a49e92-0589-4b5b-960e-43b8f877c2a7.png/v1/fill/w_1192,h_670,q_70,strp/grub_theme_artoria__celebration_dress_version__by_13andi01_df8v0go-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MGdvLTU5YTQ5ZTkyLTA1ODktNGI1Yi05NjBlLTQzYjhmODc3YzJhNy5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.0kd-o5KYAh128YV4drJq-kUgDEWFx0AGLiEB8WwWzSY" width="49%"></a>
+</p>
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Artoria-Pendragon-Maid-Version-921877277" title="❤️ Artoria Pendragon ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v125-78efd3ba-15a7-4322-a787-ad0798a7466e.png/v1/fill/w_1192,h_670,q_70,strp/artoria_pendragon__maid_version__by_13andi01_df8v125-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MTI1LTc4ZWZkM2JhLTE1YTctNDMyMi1hNzg3LWFkMDc5OGE3NDY2ZS5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VMOXN5sua1o3vurz9FAD33eR8Eo9C2jxnhqNxIIS6mw" width="49%"></a>
+</p>
+
+##
+##
+
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
