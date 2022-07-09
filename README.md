@@ -176,3 +176,8 @@
 
 - [Twitter](https://twitter.com/suisei_hosimati)
 - [YouTube](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A/about)
+
+## 📋 Note
+
+- I also play FGO NA and just got the servant Castoria, that's why I suddenly got the idea to make a GRUB Theme with the theme from the anime Fate Series, and you can add me ```~ 995,930,029 ~```
+- I would be glad if you give star in this repo and if many like it, maybe I will make a version of another servant
