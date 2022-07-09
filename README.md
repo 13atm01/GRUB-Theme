@@ -67,8 +67,12 @@
 <a href="https://www.deviantart.com/13andi01/art/Artoria-Pendragon-Maid-Version-921877277" title="❤️ Artoria Pendragon ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v125-78efd3ba-15a7-4322-a787-ad0798a7466e.png/v1/fill/w_1192,h_670,q_70,strp/artoria_pendragon__maid_version__by_13andi01_df8v125-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MTI1LTc4ZWZkM2JhLTE1YTctNDMyMi1hNzg3LWFkMDc5OGE3NDY2ZS5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.VMOXN5sua1o3vurz9FAD33eR8Eo9C2jxnhqNxIIS6mw" width="49%"></a>
 </p>
 
-##
-##
+## :art: Preview theme (Illyasviel von Einzbern)
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Illyasviel-von-Einzbern-921877782" title="❤️ Illyasviel von Einzbern ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v1g6-57cbbc0f-74a4-4abc-b932-31e4c4cc8804.png/v1/fill/w_1192,h_670,q_70,strp/illyasviel_von_einzbern_by_13andi01_df8v1g6-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MWc2LTU3Y2JiYzBmLTc0YTQtNGFiYy1iOTMyLTMxZTRjNGNjODgwNC5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.AfxQH3P9peVT31j3STtLm9WaPPDIb9u6fDNgaIO8bkg" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Illyasviel-von-Einzbern-Maid-Version-921878203" title="❤️ Illyasviel von Einzbern ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v1rv-8cccea3a-0b3b-4653-bcde-dcb38625bf87.png/v1/fill/w_1192,h_670,q_70,strp/illyasviel_von_einzbern__maid_version__by_13andi01_df8v1rv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MXJ2LThjY2NlYTNhLTBiM2ItNDY1My1iY2RlLWRjYjM4NjI1YmY4Ny5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.v_yJg_lrlA1e9RbtsYtlz3NZYMGRbQ7JLCFdHE8gx9Q" width="49%"></a>
+</p>
 
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
@@ -104,7 +108,7 @@
 
 ### :two: <b>Second installation way</b>
 
-- Download file from my Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)),([VTuber Version](https://www.gnome-look.org/p/1760905/))
+- Download file from my Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/))
 - Extract it
 - Open terminal in the GRUB Theme folder you want to install
 - Setup the new GRUB
@@ -117,7 +121,7 @@
     ```
 - Reboot your PC
 
-- ℹ️ <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)),([VTuber Version](https://www.gnome-look.org/p/1760905/)) to support me 🙂</b>
+- ℹ️ <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)) to support me 🙂</b>
 
 ## :gift_heart: Thanks to
 
