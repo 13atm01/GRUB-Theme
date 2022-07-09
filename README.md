@@ -141,7 +141,7 @@
 
 ## :gift_heart: Thanks to
 
-<a href="https://www.deviantart.com/13andi01"><img src="https://i.ibb.co/1R2BgfK/Quintuples07.png" width="58%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
+<a href="https://www.deviantart.com/13andi01"><img src="https://i.ibb.co/1R2BgfK/Quintuples07.png" width="60%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 
 - [The Quintessential Quintuplets](https://www.tbs.co.jp/anime/5hanayome/)
 - [DuckDuckGo](https://duckduckgo.com/)
@@ -158,7 +158,7 @@
 
 ## :gift_heart: Thanks to
 
-<a href="https://www.deviantart.com/13andi01/art/Thanks-Note-921932574"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8w7q6-0e67f84c-ba7d-423a-a900-20220405e5ec.png/v1/fill/w_848,h_942,strp/thanks_note_by_13andi01_df8w7q6-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5NCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGY4dzdxNi0wZTY3Zjg0Yy1iYTdkLTQyM2EtYTkwMC0yMDIyMDQwNWU1ZWMucG5nIiwid2lkdGgiOiI8PTE1MjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.BYNqDaDUkszxs0kdXAbESm798fZwk8gC1vTATrbxe40" width="36%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
+<a href="https://www.deviantart.com/13andi01/art/Thanks-Note-921932574"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8w7q6-0e67f84c-ba7d-423a-a900-20220405e5ec.png/v1/fill/w_848,h_942,strp/thanks_note_by_13andi01_df8w7q6-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTY5NCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGY4dzdxNi0wZTY3Zjg0Yy1iYTdkLTQyM2EtYTkwMC0yMDIyMDQwNWU1ZWMucG5nIiwid2lkdGgiOiI8PTE1MjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.BYNqDaDUkszxs0kdXAbESm798fZwk8gC1vTATrbxe40" width="38%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 
 - [TYPE-MOON](http://www.typemoon.com/)
 - [Fate/Stay Night](https://www.fate-sn.com/)
