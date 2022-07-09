@@ -124,7 +124,7 @@
 
 ### :two: <b>Second installation way</b>
 
-- Download file from my Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/))
+- Download file from my Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)), ([Fate Series Version](https://www.pling.com/p/1850334))
 - Extract it
 - Open terminal in the GRUB Theme folder you want to install
 - Setup the new GRUB
@@ -137,7 +137,7 @@
     ```
 - Reboot your PC
 
-- ℹ️ <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)) to support me 🙂</b>
+- ℹ️ <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)), ([Fate Series Version](https://www.pling.com/p/1850334)) to support me 🙂</b>
 
 ## :gift_heart: Thanks to
 
