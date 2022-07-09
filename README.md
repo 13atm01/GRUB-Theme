@@ -74,6 +74,15 @@
 <a href="https://www.deviantart.com/13andi01/art/Illyasviel-von-Einzbern-Maid-Version-921878203" title="❤️ Illyasviel von Einzbern ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v1rv-8cccea3a-0b3b-4653-bcde-dcb38625bf87.png/v1/fill/w_1192,h_670,q_70,strp/illyasviel_von_einzbern__maid_version__by_13andi01_df8v1rv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MXJ2LThjY2NlYTNhLTBiM2ItNDY1My1iY2RlLWRjYjM4NjI1YmY4Ny5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.v_yJg_lrlA1e9RbtsYtlz3NZYMGRbQ7JLCFdHE8gx9Q" width="49%"></a>
 </p>
 
+## :art: Preview theme (Tohsaka Rin)
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Tohsaka-Rin-Celebration-Dress-Version-921879537" title="❤️ Tohsaka Rin ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v2sx-89d4b7c4-f774-49a3-a557-32bddcffe4b0.png/v1/fill/w_1192,h_670,q_70,strp/tohsaka_rin__celebration_dress_version__by_13andi01_df8v2sx-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MnN4LTg5ZDRiN2M0LWY3NzQtNDlhMy1hNTU3LTMyYmRkY2ZmZTRiMC5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.-qHCWl4yH1igizSWvVnYEbYaxUFtGeVww8amIWr819w" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Tohsaka-Rin-Maid-Version-921880202" title="❤️ Tohsaka Rin ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v3be-6cccf704-d7b2-4b54-99ec-b9e4742e9505.png/v1/fill/w_1192,h_670,q_70,strp/tohsaka_rin__maid_version__by_13andi01_df8v3be-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2M2JlLTZjY2NmNzA0LWQ3YjItNGI1NC05OWVjLWI5ZTQ3NDJlOTUwNS5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.NVXorZrqQd8n6dZql-YRam8ryks4kYKz3S6fk9qczA4" width="49%"></a>
+</p>
+
+##
+
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
