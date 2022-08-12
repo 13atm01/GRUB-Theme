@@ -179,5 +179,11 @@
 
 ## 📋 Note
 
-- I also play FGO NA and just got the servant Castoria, that's why I suddenly got the idea to make a GRUB Theme with the theme from the anime Fate Series, and you can add me ```~ 995,930,029 ~```
+<a href="https://count.getloli.com/">
+    <img src="https://count.getloli.com/get/@GRUB-Theme.github?theme=rule34" title="🇮🇩 Thanks a lot for supporting me 🙂" alt="13atm01" align="right">
+</a>
+
+- I also play FGO NA and just got the servant Castoria, that's why I suddenly got the idea to make a GRUB Theme with the theme from the anime Fate Series, and you can add me:
+
+- ```~ 995,930,029 ~```
 - I would be glad if you give star in this repo and if many like it, maybe I will make a version of another servant
