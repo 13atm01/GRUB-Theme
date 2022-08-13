@@ -100,7 +100,7 @@
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
-- Open terminal.
+- Open terminal
 
 - Clone this repository
 
