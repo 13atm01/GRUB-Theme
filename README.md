@@ -88,6 +88,13 @@
 <a href="https://www.deviantart.com/13andi01/art/Matou-Sakura-Maid-Version-921879051" title="❤️ Matou Sakura ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8v2ff-1d1417f6-cd11-4a4b-a7e1-84c29faa9fea.png/v1/fill/w_1192,h_670,q_70,strp/matou_sakura__maid_version__by_13andi01_df8v2ff-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZjh2MmZmLTFkMTQxN2Y2LWNkMTEtNGE0Yi1hN2UxLTg0YzI5ZmFhOWZlYS5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8J4AczTxz2VefdrTHG1XJgkUaGexds_3lsAii3GFN1c" width="49%"></a>
 </p>
 
+## :art: Preview theme (Leonardo da Vinci)
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Leonardo-da-Vinci-925763076" title="❤️ Leonardo da Vinci ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfb6bd0-af80aa90-2328-4a1e-a634-fa25defc1387.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZiNmJkMC1hZjgwYWE5MC0yMzI4LTRhMWUtYTYzNC1mYTI1ZGVmYzEzODcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PcWpHPQPd-N4DmgzRtnUEtSH1RoPTknsGfuWuQah81U" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Leonardo-da-Vinci-Rider-Version-925763766" title="❤️ Leonardo da Vinci ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfb6bw6-f5f786fc-7c76-41da-8946-71b62491474a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZiNmJ3Ni1mNWY3ODZmYy03Yzc2LTQxZGEtODk0Ni03MWI2MjQ5MTQ3NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GSIHmRzuyBbxRczI6VHSc_YoDucIkXS0sMVD4gF_mas" width="49%"></a>
+</p>
+
 ##
 
 ## :wrench: Installation
@@ -183,7 +190,8 @@
     <img src="https://count.getloli.com/get/@GRUB-Theme.github?theme=rule34" title="🇮🇩 Thanks a lot for supporting me 🙂" alt="13atm01" align="right">
 </a>
 
-- I also play FGO NA and just got the servant Castoria, that's why I suddenly got the idea to make a GRUB Theme with the theme from the anime Fate Series, and you can add me:
+- I also play FGO NA and just got the servant Castoria and Loli Vinci, that's why I suddenly got the idea to make a GRUB Theme with the theme from the anime Fate Series, and you can add me:
 
 - ```~ 995,930,029 ~```
 - I would be glad if you give star in this repo and if many like it, maybe I will make a version of another servant
+- The new version is servant Leonardo da Vinci
