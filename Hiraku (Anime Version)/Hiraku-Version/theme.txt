@@ -19,7 +19,7 @@ message-color: "#00ffdf"
 #Show the boot menu
 
 + boot_menu{
-    left = 25%
+    left = 15%
     top = 20%
     width = 60%
     height = 60%
