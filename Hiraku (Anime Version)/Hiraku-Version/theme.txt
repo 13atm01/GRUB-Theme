@@ -9,7 +9,7 @@ terminal-left: "0"
 terminal-top: "0"
 terminal-width: "100%"
 terminal-height: "100%"
-termianl-border: "0"
+terminal-border: "0"
 desktop-image: "background.png"
 desktop-color: "#0036c7"
 message-font: "Terminus Regular Bold 14"
@@ -41,14 +41,12 @@ message-color: "#00ffdf"
     top = 0%
     left = 0%
     width = 100%
-    height:= 5%
+    height = 5%
     font = "Terminus Regular 16"
     id = "__timeout__"
-    text = "Automatically booting in %d seconds"   
     text_color = "gainsboro"     
     bar_style = "progress_frame_*.png"
     highlight_style = "progress_highlight_*.png"
-    show_text = true
     bar_style = "progress_frame_*.png"
     highlight_style = "progress_highlight_*.png"
 }
