@@ -169,7 +169,7 @@
 
 - [TYPE-MOON](http://www.typemoon.com/)
 - [Fate/Stay Night](https://www.fate-sn.com/)
-- [Fate/Grand Order](https://anime.fate-go.jp/)
+- [Fate/Grand Order](https://www.fate-go.jp/)
 - [Fate/Stay Night 15th Celebration Project](https://fate-15th.com/)
 - [NAKAU JP](https://fate-15th.nakau.co.jp/)
 - [Big Boy Restaurant](https://fate-sn-hf3.bigboyjapan.co.jp/)
