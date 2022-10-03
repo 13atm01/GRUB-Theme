@@ -6,7 +6,7 @@
 
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
-THEME_NAME="Miku-Christmas-Version"
+THEME_NAME="Yuri-DDLC-Version"
 
 MAX_DELAY=20                                        # max delay for user to enter root password
 
@@ -44,8 +44,12 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t        ******************************************\n\t       * Nakano Miku (Christmas) Bootloader Theme *\n\t        ******************************************\n"
-prompt -s "\n\t             GRUB Theme by Andi Trisna Mukti \n \n"
+  prompt -s "\n\t     *****************************************************\n\t     * Doki Doki Literature Club (Yuri) Bootloader Theme *\n\t     *****************************************************\n
+                                 GRUB Theme
+
+                                     by
+
+                 Andi Trisna Mukti and Juan Angeles Hernandez \n \n"
 
 
  
