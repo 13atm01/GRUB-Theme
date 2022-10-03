@@ -172,6 +172,7 @@
 <a href="https://www.deviantart.com/13andi01"><img src="https://i.ibb.co/1R2BgfK/Quintuples07.png" width="60%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 
 - [The Quintessential Quintuplets](https://www.tbs.co.jp/anime/5hanayome/)
+- [Doki Doki Literature Club Plus!] (https://ddlc.plus/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
@@ -199,6 +200,11 @@
 
 - [Twitter](https://twitter.com/YuuJinS_CSJ)
 - [GitHub](https://github.com/YuuJinS)
+
+### My Friend Juan Angeles Hernandez
+
+- [Twitter](https://twitter.com/JohnWilliamBn)
+- [GitHub](https://github.com/J3xLe1988B3lx0x2E6)
 
 ### VTuber Hoshimati Suisei
 
