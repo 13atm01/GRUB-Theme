@@ -96,6 +96,27 @@
 </p>
 
 ##
+##
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-DDLC-Plus-Version-931734173" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqaot-0083f761-dbe5-4f02-bcbf-c512bb730944.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcWFvdC0wMDgzZjc2MS1kYmU1LTRmMDItYmNiZi1jNTEyYmI3MzA5NDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kDIgCevYFCNEyWpvdhtRjvK7TOklxKjrhX_pLRLDJpA" width="62%"></a>
+</p>
+
+## :art: Preview theme
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Doki-Doki-Literature-Club-Monika-Version-931753315" title="❤️ Monika (DDLC) ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqpgj-3ba9c9b8-5052-4f59-9ad5-c27d0c0837ab.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcXBnai0zYmE5YzliOC01MDUyLTRmNTktOWFkNS1jMjdkMGMwODM3YWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1EHMdNgDuOhRvg0iVTKNv2GPxr8aHdl0dVY0Ywi_yco" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Doki-Doki-Literature-Club-Natsuki-Version-931754534" title="❤️ Natsuki (DDLC) ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqqee-b497566e-757c-4a1f-89ac-fde557fffaad.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcXFlZS1iNDk3NTY2ZS03NTdjLTRhMWYtODlhYy1mZGU1NTdmZmZhYWQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.zzkkE-jiy-wYJpV7Ku0_6k78Ng3GDjp129AD3obuUtc" width="49%"></a>
+</p>
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Doki-Doki-Literature-Club-Chibi-Version-931755036" title="❤️ DDLC (Chibi) ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqqsc-9805f94c-722a-45b4-bacf-32a56e12845f.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcXFzYy05ODA1Zjk0Yy03MjJhLTQ1YjQtYmFjZi0zMmE1NmUxMjg0NWYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.u60IkxtdqSTGhaAirXSzL9ns2dyR49QV0H8z22HzouU" width="49%"></a>
+</p>
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Doki-Doki-Literature-Club-Yuri-Version-931755597" title="❤️ Yuri (DDLC) ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqr7x-c4ca1086-7bbc-43c0-9043-27e72c80842a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcXI3eC1jNGNhMTA4Ni03YmJjLTQzYzAtOTA0My0yN2U3MmM4MDg0MmEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AlOffs_a0Pb7oJCX1xi9w5V3YHSkAr-4fIjLvIbE9KY" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Doki-Doki-Literature-Club-Sayori-Version-931755973" title="❤️ Sayori (DDLC) ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqrid-213bfbf1-c440-4e2a-8d9f-5a80e8169c25.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcXJpZC0yMTNiZmJmMS1jNDQwLTRlMmEtOGQ5Zi01YTgwZTgxNjljMjUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.1ktsG4TYXe5czKX4XkwT6naVc8fgTPxyPcdVM37cr3w" width="49%"></a>
+</p>
+
+##
 
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
