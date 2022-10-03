@@ -44,8 +44,12 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t        ******************************************\n\t       *  DDLC Chibi Version Bootloader Theme *\n\t        ******************************************\n"
-prompt -s "\n\t             GRUB Theme by Andi Trisna Mukti and Juan Angeles Hernandez\n \n"
+  prompt -s "\n\t    ******************************************************\n\t    * Doki Doki Literature Club (Chibi) Bootloader Theme *\n\t    ******************************************************\n
+                                 GRUB Theme
+
+                                     by
+
+                 Andi Trisna Mukti and Juan Angeles Hernandez \n \n"
 
 
  
