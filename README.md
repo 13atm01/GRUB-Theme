@@ -217,8 +217,9 @@
     <img src="https://count.getloli.com/get/@GRUB-Theme.github?theme=rule34" title="🇮🇩 Thanks a lot for supporting me 🙂" alt="13atm01" align="right">
 </a>
 
-- I also play FGO NA and just got the servant Castoria and Loli Vinci, that's why I suddenly got the idea to make a GRUB Theme with the theme from the anime Fate Series, and you can add me:
-
+- I also play FGO NA, you can add me:
 - ```~ 995,930,029 ~```
-- I would be glad if you give star in this repo and if many like it, maybe I will make a version of another servant
-- The new version is servant Leonardo da Vinci
+- I would be glad if you give star in this repo and if many like it, maybe I will make another version
+- The new version is from the game [Doki Doki Literature Club Plus!](https://ddlc.plus/)
+- DDLC version made by my friend [Juan Angeles Hernandez](https://github.com/J3xLe1988B3lx0x2E6), I'm just giving suggestions and improving it a bit
+- You can also give your ideas, request, or include your version by doing a [Pull requests](https://github.com/13atm01/GRUB-Theme/pulls) on this repository 🙂
