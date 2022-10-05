@@ -32,7 +32,7 @@ message-color: "#ffffff"
     item_height = 36
     item_padding = 5
     item_spacing = 10
-    selected_tem_pixmap_style = "select_*.png"
+    selected_item_pixmap_style = "select_*.png"
 }
 
 
