@@ -44,7 +44,12 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t        *************************************\n\t        * Kobo Kanaeru Bootloader Theme *\n\t        *************************************\n"
+  prompt -s "\n\t           *********************************\n\t           * Kobo Kanaeru Bootloader Theme *\n\t           *********************************\n
+                              GRUB Theme
+
+                                  by
+
+                  Andi Trisna Mukti and Abu Mushonnip \n \n"
 
 
 
