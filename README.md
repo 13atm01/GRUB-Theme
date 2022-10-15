@@ -47,7 +47,8 @@
 ## :art: Preview theme
 
 <p align="center">
-<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="88%"></a>
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Kobo-Kanaeru-932176696" title="❤️ Kobo Kanaeru ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfezs54-57f654dc-14db-45ad-9a4a-de2931a04867.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlenM1NC01N2Y2NTRkYy0xNGRiLTQ1YWQtOWE0YS1kZTI5MzFhMDQ4NjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gvRCiDleI2ZZwH24xEvN8mRwi7W52dQaQx5Ax8Nc2Kw" width="49%"></a>
 </p>
 
 ##
@@ -206,10 +207,20 @@
 - [Twitter](https://twitter.com/JohnWilliamBn)
 - [GitHub](https://github.com/J3xLe1988B3lx0x2E6)
 
+### My Friend Abu Mushonnip
+
+- [Twitter](https://twitter.com/mushonnip_x64)
+- [GitHub](https://github.com/mushonnip)
+
 ### VTuber Hoshimati Suisei
 
 - [Twitter](https://twitter.com/suisei_hosimati)
-- [YouTube](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A/about)
+- [YouTube](https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A/)
+
+### VTuber Kobo Kanaeru
+
+- [Twitter](https://twitter.com/kobokanaeru)
+- [YouTube](https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw/)
 
 ## 📋 Note
 
@@ -220,6 +231,7 @@
 - I also play FGO NA, you can add me:
 - ```~ 995,930,029 ~```
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
-- The new version is from the game [Doki Doki Literature Club Plus!](https://ddlc.plus/)
+- The new version is from the game [Doki Doki Literature Club Plus!](https://ddlc.plus/), and [VTuber Kobo Kanaeru](https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw/)
 - DDLC version made by my friend [Juan Angeles Hernandez](https://github.com/J3xLe1988B3lx0x2E6), I'm just giving suggestions and improving it a bit
+- And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
 - You can also give your ideas, request, or include your version by doing a [Pull requests](https://github.com/13atm01/GRUB-Theme/pulls) on this repository 🙂
