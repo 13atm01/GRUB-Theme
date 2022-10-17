@@ -234,4 +234,3 @@
 - The new version is from the game [Doki Doki Literature Club Plus!](https://ddlc.plus/), and [VTuber Kobo Kanaeru](https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw/)
 - DDLC version made by my friend [Juan Angeles Hernandez](https://github.com/J3xLe1988B3lx0x2E6), I'm just giving suggestions and improving it a bit
 - And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
-- You can also give your ideas, request, or include your version by doing a [Pull requests](https://github.com/13atm01/GRUB-Theme/pulls) on this repository 🙂
