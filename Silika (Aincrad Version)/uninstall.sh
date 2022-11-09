@@ -44,7 +44,7 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t    *******************************************************\n\t    * Sword Art Online (Silika Aincrad) Bootloader Theme *\n\t    *******************************************************\n
+  prompt -s "\n\t    ******************************************************\n\t    * Sword Art Online (Silika Aincrad) Bootloader Theme *\n\t    ******************************************************\n
                                  GRUB Theme
 
                                      by
