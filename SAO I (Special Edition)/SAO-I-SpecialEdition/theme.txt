@@ -23,7 +23,7 @@ message-color: "#ffffff"
     top = 22%
     width = 60%
     height = 60%
-    item_font = "Terminus Regular Bold 16"
+    item_font = "Terminus Regular Bold 14"
     item_color = "#ffffff"
     selected_item_color = "#ffffff"
     icon_width = 32
