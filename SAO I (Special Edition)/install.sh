@@ -6,7 +6,7 @@
 
 ROOT_UID=0
 THEME_DIR="/usr/share/grub/themes"
-THEME_NAME="Sachi-Aincrad"
+THEME_NAME="SAO-I-SpecialEdition"
 
 MAX_DELAY=20                                        # max delay for user to enter root password
 
@@ -44,7 +44,7 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t *****************************************************\n\t * Sword Art Online (Sachi Aincrad) Bootloader Theme *\n\t *****************************************************\n
+  prompt -s "\n\t *******************************************************\n\t * Sword Art Online I Sword Art Online I Special Edition Bootloader Theme *\n\t *******************************************************\n
                               GRUB Theme
 
                                   by
