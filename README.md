@@ -16,8 +16,7 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Itsuki-880180264" title="❤️ Nakano Itsuki ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dek1bfs-63337948-452b-45d8-8c66-b031dfbeb374.png/v1/fill/w_1192,h_670,q_70,strp/grub_theme__itsuki__by_13andi01_dek1bfs-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZWsxYmZzLTYzMzM3OTQ4LTQ1MmItNDVkOC04YzY2LWIwMzFkZmJlYjM3NC5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.n1TIZZmdMBt26QqXjKeMBQnyOQBlP5VLSh0Hcy-VQVw" width="49%"></a>
 </p>
 
-##
-##
+---
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Christmas-Version-901853972" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dewxuz8-9c5b3f64-14cc-4a4d-98c6-e4822f15c23d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGV3eHV6OC05YzViM2Y2NC0xNGNjLTRhNGQtOThjNi1lNDgyMmYxNWMyM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hh1PQ7S9Y4vqD3J10tG3f_AEq9DBn3la7ZqfIdT_96A" width="47%"></a>
@@ -37,8 +36,7 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Itsuki-Christmas-Version-901856049" title="❤️ Nakano Itsuki ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dewxwkx-51830ea3-9163-476d-99b5-47afdeda4b0b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGV3eHdreC01MTgzMGVhMy05MTYzLTQ3NmQtOTliNS00N2FmZGVkYTRiMGIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.54LCmqDTod4OYzviTVEAQfAr16m6-e0ZVBhzU1Jv6Yo" width="49%"></a>
 </p>
 
-##
-##
+---
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-VTuber-version-912599545" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c6bd-b424792c-6ad2-45a9-838f-9d80bf215259.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzZiZC1iNDI0NzkyYy02YWQyLTQ1YTktODM4Zi05ZDgwYmYyMTUyNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U4rBsMDu-w8gQhkdu9S_95rQRB3SWzeNiwpAbB6jUyM" width="62%"></a>
@@ -51,8 +49,7 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Kobo-Kanaeru-932176696" title="❤️ Kobo Kanaeru ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfezs54-57f654dc-14db-45ad-9a4a-de2931a04867.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlenM1NC01N2Y2NTRkYy0xNGRiLTQ1YWQtOWE0YS1kZTI5MzFhMDQ4NjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gvRCiDleI2ZZwH24xEvN8mRwi7W52dQaQx5Ax8Nc2Kw" width="49%"></a>
 </p>
 
-##
-##
+---
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Fate-Series-version-921845338" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8ucey-8654e856-7a32-4abb-9fa2-a8d939833d6f.png/v1/fill/w_1267,h_631,strp/grub_theme__fate_series_version__by_13andi01_df8ucey-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2NCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGY4dWNleS04NjU0ZTg1Ni03YTMyLTRhYmItOWZhMi1hOGQ5Mzk4MzNkNmYucG5nIiwid2lkdGgiOiI8PTQzNDMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.AvVKrxv4LuAVIou4GxSFe-NVlo8ucVM2QSmc4qPOSi4" width="85%"></a>
@@ -96,8 +93,7 @@
 <a href="https://www.deviantart.com/13andi01/art/Leonardo-da-Vinci-Rider-Version-925763766" title="❤️ Leonardo da Vinci ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfb6bw6-f5f786fc-7c76-41da-8946-71b62491474a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZiNmJ3Ni1mNWY3ODZmYy03Yzc2LTQxZGEtODk0Ni03MWI2MjQ5MTQ3NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GSIHmRzuyBbxRczI6VHSc_YoDucIkXS0sMVD4gF_mas" width="49%"></a>
 </p>
 
-##
-##
+---
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-DDLC-Plus-Version-931734173" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqaot-0083f761-dbe5-4f02-bcbf-c512bb730944.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcWFvdC0wMDgzZjc2MS1kYmU1LTRmMDItYmNiZi1jNTEyYmI3MzA5NDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kDIgCevYFCNEyWpvdhtRjvK7TOklxKjrhX_pLRLDJpA" width="62%"></a>
@@ -117,7 +113,7 @@
 <a href="https://www.deviantart.com/13andi01/art/Doki-Doki-Literature-Club-Sayori-Version-931755973" title="❤️ Sayori (DDLC) ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqrid-ac2ff3a9-eea8-4b15-970a-4afea6827756.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcXJpZC1hYzJmZjNhOS1lZWE4LTRiMTUtOTcwYS00YWZlYTY4Mjc3NTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.jIUA36i9dT-BYgiIzathqy39j2cOpYd7Q9by6zD0jH4" width="49%"></a>
 </p>
 
-##
+---
 
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
