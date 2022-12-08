@@ -93,6 +93,13 @@
 <a href="https://www.deviantart.com/13andi01/art/Leonardo-da-Vinci-Rider-Version-925763766" title="❤️ Leonardo da Vinci ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfb6bw6-f5f786fc-7c76-41da-8946-71b62491474a.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZiNmJ3Ni1mNWY3ODZmYy03Yzc2LTQxZGEtODk0Ni03MWI2MjQ5MTQ3NGEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.GSIHmRzuyBbxRczI6VHSc_YoDucIkXS0sMVD4gF_mas" width="49%"></a>
 </p>
 
+## :art: Preview theme (Mash Kyrielight)
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Mash-Kyrielight-Version-1-940252922" title="❤️ Mash Kyrielight ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfjsvsq-04b7d563-f0c1-48f2-9ab1-f4dab2c0a8d9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZqc3ZzcS0wNGI3ZDU2My1mMGMxLTQ4ZjItOWFiMS1mNGRhYjJjMGE4ZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.4cl46djtjASmHSmbNxMxcuA7kdBTw60OVF0FUYlDgFw" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Mash-Kyrielight-Version-2-940255712" title="❤️ Mash Kyrielight ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfjsxy8-1e2fc220-3c27-47f2-965b-bfb06fcc5c6b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZqc3h5OC0xZTJmYzIyMC0zYzI3LTQ3ZjItOTY1Yi1iZmIwNmZjYzVjNmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TwDnX5vbmt2MFjQftLrHgyqWRtqnnUxWUjlKhvM-s3w" width="49%"></a>
+</p>
+
 ---
 
 <p align="center">
@@ -227,6 +234,6 @@
 - I also play FGO NA, you can add me:
 - ```~ 995,930,029 ~```
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
-- The new version is from the game [Doki Doki Literature Club Plus!](https://ddlc.plus/), and [VTuber Kobo Kanaeru](https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw/)
 - DDLC version made by my friend [Juan Angeles Hernandez](https://github.com/J3xLe1988B3lx0x2E6), I'm just giving suggestions and improving it a bit
 - And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
+- The new version is Demi-servant Mash Kyrielight
