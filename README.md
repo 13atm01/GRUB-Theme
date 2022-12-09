@@ -100,6 +100,16 @@
 <a href="https://www.deviantart.com/13andi01/art/Mash-Kyrielight-Version-2-940255712" title="❤️ Mash Kyrielight ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfjsxy8-1e2fc220-3c27-47f2-965b-bfb06fcc5c6b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZqc3h5OC0xZTJmYzIyMC0zYzI3LTQ3ZjItOTY1Yi1iZmIwNmZjYzVjNmIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TwDnX5vbmt2MFjQftLrHgyqWRtqnnUxWUjlKhvM-s3w" width="49%"></a>
 </p>
 
+## :art: Preview theme (Okita Souji)
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Okita-Souji-Version-1-940412719" title="❤️ Okita Souji ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfjwb3j-0a745373-34af-4a9a-a071-980aa76d5a79.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZqd2Izai0wYTc0NTM3My0zNGFmLTRhOWEtYTA3MS05ODBhYTc2ZDVhNzkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.m8ph3o-D3WdSo-o2-s5-6_golwckrCLhZ1L_CgmIgM4" width="49%"></a>
+<a href="https://www.deviantart.com/13andi01/art/Okita-Souji-Alter-Version-940414017" title="❤️ Okita Souji ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfjwc3l-231096ab-ef56-4720-b26b-75c1ee45bb1c.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZqd2MzbC0yMzEwOTZhYi1lZjU2LTQ3MjAtYjI2Yi03NWMxZWU0NWJiMWMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ql-G0xCeXhOcbLYgakCoHqgGNCa53Z0fKGstrbY8VMQ" width="49%"></a>
+</p>
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/Okita-Souji-Version-2-940413417" title="❤️ Okita Souji ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfjwbmx-e77e8207-3341-4efc-bf99-edecfda7fc83.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZqd2JteC1lNzdlODIwNy0zMzQxLTRlZmMtYmY5OS1lZGVjZmRhN2ZjODMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.bk60ORKfBs4yciYBauQIKIDiq1GNLgDbBcsx3xh8C2k" width="49%"></a>
+</p>
+
 ---
 
 <p align="center">
@@ -236,4 +246,4 @@
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
 - DDLC version made by my friend [Juan Angeles Hernandez](https://github.com/J3xLe1988B3lx0x2E6), I'm just giving suggestions and improving it a bit
 - And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
-- The new version is Demi-servant Mash Kyrielight
+- The new version is Demi-servant Mash Kyrielight and servant Okita Souji
