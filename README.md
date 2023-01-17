@@ -135,6 +135,8 @@
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
+<a href="https://fategrandorder.fandom.com/wiki/Space_Ishtar?file=Figure_268.png#Others"><img src="https://i.ibb.co/xY7qdW5/Rin03.png" width="36%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
+
 - Open terminal
 
 - Clone this repository
