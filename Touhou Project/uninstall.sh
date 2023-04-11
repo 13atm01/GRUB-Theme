@@ -44,12 +44,12 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t    ****************************************************\n\t    * Touhou Project Special Edition Bootloader Theme *\n\t    ***************************************************\n
-                                 GRUB Theme
+  prompt -s "\n\t   ***************************************************\n\t   * Touhou Project Special Edition Bootloader Theme *\n\t   ***************************************************\n
+                               GRUB Theme
 
-                                     by
+                                   by
 
-                 Andi Trisna Mukti and Juan Angeles Hernandez \n \n"
+               Andi Trisna Mukti and Juan Angeles Hernandez \n \n"
 
 
  
