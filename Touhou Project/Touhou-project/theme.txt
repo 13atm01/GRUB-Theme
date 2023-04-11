@@ -1,5 +1,5 @@
 # Touhou Proyect Special Edition - J3xLe1988B3lx0x2E6
-#GRU2 Linux Theme
+# GRUB2 Linux Theme
 
 #Global Property
 title-text: ""
@@ -19,7 +19,7 @@ message-color: "#ffffff"
 #Show the boot menu
 
 + boot_menu{
-    left = 16%
+    left = 18%
     top = 22%
     width = 60%
     height = 60%
