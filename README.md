@@ -201,6 +201,7 @@
 
 - [The Quintessential Quintuplets](https://www.tbs.co.jp/anime/5hanayome/)
 - [Doki Doki Literature Club Plus!](https://ddlc.plus/)
+- [Touhou Project](https://global.touhoulostword.com/)
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Google](https://www.google.com/)
 - [GitHub](https://github.com/)
@@ -258,6 +259,7 @@
 - I also play FGO NA, you can add me:
 - ```~ 995,930,029 ~```
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
-- DDLC version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
+- DDLC and Touhou Project version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
 - And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
-- The new version is Demi-servant Mash Kyrielight and servant Okita Souji
+- Because Touhou Project games do not have official websites, so we only include the website link of the game variant for copyright
+- The new version is Touhou Project
