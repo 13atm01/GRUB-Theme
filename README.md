@@ -132,6 +132,18 @@
 
 ---
 
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Touhou-Project-Version-957825056" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfu9ijk-48a624e8-0e44-4133-95b6-ed8f9392473b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZ1OWlqay00OGE2MjRlOC0wZTQ0LTQxMzMtOTViNi1lZDhmOTM5MjQ3M2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nxiokCkZuaVfEgHMeFfW2fUTUQLJo5vb8TxK8IBxTqw" width="72%"></a>
+</p>
+
+## :art: Preview theme
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Touhou-Project-957826452" title="❤️ Touhou Project ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfu9jmc-2f70b055-1417-400a-ae45-c26ee9274476.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZ1OWptYy0yZjcwYjA1NS0xNDE3LTQwMGEtYWU0NS1jMjZlZTkyNzQ0NzYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.eobMTd-rxQn1Qbf1_02llgf1e9LI7g0mOAVwo5Pq1Ws" width="67%"></a>
+</p>
+
+---
+
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
