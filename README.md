@@ -256,8 +256,6 @@
     <img src="https://count.getloli.com/get/@GRUB-Theme.github?theme=rule34" title="🇮🇩 Thanks a lot for supporting me 🙂" alt="13atm01" align="right">
 </a>
 
-- I also play FGO NA, you can add me:
-- ```~ 995,930,029 ~```
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
 - DDLC and Touhou Project version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
 - And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
