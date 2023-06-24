@@ -147,7 +147,7 @@
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
-<a href="https://fategrandorder.fandom.com/wiki/Space_Ishtar?file=Figure_268.png#Others"><img src="https://i.ibb.co/xY7qdW5/Rin03.png" width="36%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
+<a href="https://www.hoyolab.com/article/19475534?utm_source=sns&utm_medium=link"><img src="https://upload-os-bbs.hoyolab.com/upload/2023/06/19/b4a88ac82b95d56111f854cf40f2b32c_1647645067955024521.gif" width="40%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 
 - Open terminal
 
@@ -260,4 +260,4 @@
 - DDLC and Touhou Project version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
 - And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
 - Because Touhou Project games do not have official websites, so we only include the website link of the game variant for copyright
-- The new version is Touhou Project
+- I'm really confused about what version to make next
