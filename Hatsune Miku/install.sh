@@ -44,7 +44,7 @@ prompt () {
 }
 
 # Welcome message
-  prompt -s "\n\t ***************************************************\n\t * Hatsune Miku 16th Special Edition Bootloader Theme *\n\t ******************************************************\n
+  prompt -s "\n\t ******************************************************\n\t * Hatsune Miku 16th Special Edition Bootloader Theme *\n\t ******************************************************\n
                              GRUB Theme
 
                                  by
