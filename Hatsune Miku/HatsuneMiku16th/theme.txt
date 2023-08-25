@@ -1,0 +1,50 @@
+# Hatnune Miku 16th edition- JohnKun136NVCP
+# GRUB2 Linux Theme
+
+#Global Property
+title-text: ""
+title-color: "#c70039"
+terminal-font: ""
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-border: "0"
+desktop-image: "background.png"
+desktop-color: "#0036c7"
+message-font: "Terminus Regular Bold 14"
+message-color: "#ffffff"
+
+
+#Show the boot menu
+
++ boot_menu{
+    left = 18%
+    top = 22%
+    width = 60%
+    height = 60%
+    item_font = "Terminus Regular Bold 14"
+    item_color = "#86CECB"
+    selected_item_color = "#E12885"
+    icon_width = 32
+    icon_height= 32
+    item_icon_space = 20
+    item_height = 36
+    item_padding = 5
+    item_spacing = 10
+    selected_item_pixmap_style = "select_*.png"
+}
+
+
+#Show Progress 
++ progress_bar{
+    top = 0%
+    left = 0%
+    width = 100%
+    height = 4%
+    id = "__timeout__"
+    bar_style = "progress_frame_*.png"
+    highlight_style = "progress_highlight_*.png"
+    bar_style = "progress_frame_*.png"
+    highlight_style = "progress_highlight_*.png"
+}
