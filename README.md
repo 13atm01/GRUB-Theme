@@ -144,6 +144,18 @@
 
 ---
 
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Vocaloid-Version-985037601" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dgagrvl-1309d4a6-910c-4edf-bad3-56bd0de4614b.png/v1/fill/w_1135,h_704/grub_theme__vocaloid_version__by_13andi01_dgagrvl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0MCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGdhZ3J2bC0xMzA5ZDRhNi05MTBjLTRlZGYtYmFkMy01NmJkMGRlNDYxNGIucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RXjHrV8ozBs_1Fl0wtAmHo_eKAuTfUPvYJcWd5JgRVI" width="62%"></a>
+</p>
+
+## :art: Preview theme
+
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hatsune-Miku-985038779" title="❤️ Vocaloid ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dgagssb-b54be0e0-42df-4b7b-9a1c-cb5443450d11.png/v1/fill/w_1192,h_670,q_70,strp/grub_theme__hatsune_miku__by_13andi01_dgagssb-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzY4IiwicGF0aCI6IlwvZlwvMWU2NmI3ZTctNjY5MC00NDBhLWE3MWItODI2ZTgwODE5NzRhXC9kZ2Fnc3NiLWI1NGJlMGUwLTQyZGYtNGI3Yi05YTFjLWNiNTQ0MzQ1MGQxMS5wbmciLCJ3aWR0aCI6Ijw9MTM2NiJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.T7v9JI68GzSseV3jNNzzSinbopaTWgLi6OOL-EK0Px0" width="67%"></a>
+</p>
+
+---
+
 ## :wrench: Installation
 ### :one: <b>First installation way</b>
 
@@ -193,7 +205,7 @@
     ```
 - Reboot your PC
 
-- ℹ️ <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)), ([Fate Series Version](https://www.pling.com/p/1850334)), ([DDLC Version](https://www.gnome-look.org/p/1915649)) to support me 🙂</b>
+- <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)), ([Fate Series Version](https://www.pling.com/p/1850334)), ([DDLC Version](https://www.gnome-look.org/p/1915649)) to support me 🙂</b>
 
 ## :gift_heart: Thanks to
 
@@ -224,6 +236,9 @@
 - [Fate/Stay Night 15th Celebration Project](https://fate-15th.com/)
 - [NAKAU JP](https://fate-15th.nakau.co.jp/)
 - [Big Boy Restaurant](https://fate-sn-hf3.bigboyjapan.co.jp/)
+- [Crypton Future Media, Inc.](https://www.crypton.co.jp/)
+- [Hatsune Miku Official Blog](https://blog.piapro.net/)
+
 
 ### My Friend Chen Si Jing
 
@@ -257,7 +272,7 @@
 </a>
 
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
-- DDLC and Touhou Project version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
+- DDLC, Touhou Project, and Vocaloid version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
 - And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
 - Because Touhou Project games do not have official websites, so we only include the website link of the game variant for copyright
 - I'm really confused about what version to make next
