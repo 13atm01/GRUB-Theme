@@ -240,10 +240,10 @@
 - [Hatsune Miku Official Blog](https://blog.piapro.net/)
 
 
-### My Friend Chen Si Jing
+### My Friend Chen Si Jing(a.k.a.星月なるこ)
 
-- [Twitter](https://twitter.com/YuuJinS_CSJ)
-- [GitHub](https://github.com/YuuJinS)
+- [Twitter](https://twitter.com/naruko_hstk)
+- [GitHub](https://github.com/naruko-hstk)
 
 ### My Friend Juan Angeles Hernandez
 
