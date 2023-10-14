@@ -205,7 +205,23 @@
     ```
 - Reboot your PC
 
-- <b>I suggest the second step, download the file on my website Pling/Gnome-look ([TQQ Version](https://www.gnome-look.org/p/1526503/)), ([VTuber Version](https://www.gnome-look.org/p/1760905/)), ([Fate Series Version](https://www.pling.com/p/1850334)), ([DDLC Version](https://www.gnome-look.org/p/1915649)) to support me 🙂</b>
+### :three: <b>Third installation way</b>
+
+- Download file from tag [Releases](https://github.com/13atm01/GRUB-Theme/releases)
+- Choose GRUB Theme you want to install, for example from Fate Series version [Tohsaka Rin](https://github.com/13atm01/GRUB-Theme/releases/tag/FSN-v1.2)
+- Click "Assets"
+- Download the Tohsaka Rin version you want, download the one with the size information not the source code
+- Extract it
+- Open terminal in the GRUB Theme folder you want to install
+- Setup the new GRUB
+
+    ```sh
+    sudo ./install.sh                       #if error try "sudo sh ./install.sh"
+    ```
+    ```
+    sudo update-grub
+    ```
+- Reboot your PC
 
 ## :gift_heart: Thanks to
 
