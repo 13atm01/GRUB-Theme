@@ -48,6 +48,9 @@
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Hoshimati-Suisei-912600790" title="❤️ Hoshimati Suisei ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c79y-900172d3-7418-482d-afcc-9cebcde4f417.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzc5eS05MDAxNzJkMy03NDE4LTQ4MmQtYWZjYy05Y2ViY2RlNGY0MTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.EeVq43ESgcMPaEXrosP9IFI9yU9PENnJQ_e4NzOKLXE" width="49%"></a>
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Kobo-Kanaeru-932176696" title="❤️ Kobo Kanaeru ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfezs54-57f654dc-14db-45ad-9a4a-de2931a04867.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlenM1NC01N2Y2NTRkYy0xNGRiLTQ1YWQtOWE0YS1kZTI5MzFhMDQ4NjcucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.gvRCiDleI2ZZwH24xEvN8mRwi7W52dQaQx5Ax8Nc2Kw" width="49%"></a>
 </p>
+<p align="center">
+<a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Airani-Iofifteen-1013037989" title="❤️ Airani Iofifteen ❤️"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dgr4x45-1e193fb3-5d49-4cf5-b4cf-420758ab28d9.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGdyNHg0NS0xZTE5M2ZiMy01ZDQ5LTRjZjUtYjRjZi00MjA3NThhYjI4ZDkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.rb0zyaNYVmIlk3LChDcv5X00ckP9PClHTk0P9z42__Y" width="49%"></a>
+</p>
 
 ---
 
@@ -254,6 +257,7 @@
 - [Big Boy Restaurant](https://fate-sn-hf3.bigboyjapan.co.jp/)
 - [Crypton Future Media, Inc.](https://www.crypton.co.jp/)
 - [Hatsune Miku Official Blog](https://blog.piapro.net/)
+- [Hololive ID](https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q/)
 
 
 ### My Friend Chen Si Jing(a.k.a.星月なるこ)
@@ -271,6 +275,11 @@
 - [Twitter](https://twitter.com/mushonnip_x64)
 - [GitHub](https://github.com/mushonnip)
 
+### My Friend Japar Sidik
+
+- [Twitter](https://twitter.com/Sidik84503300)
+- [GitHub](https://github.com/Jersk41)
+
 ### VTuber Hoshimati Suisei
 
 - [Twitter](https://twitter.com/suisei_hosimati)
@@ -281,6 +290,11 @@
 - [Twitter](https://twitter.com/kobokanaeru)
 - [YouTube](https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw/)
 
+### VTuber Airani Iofifteen
+
+- [Twitter](https://twitter.com/airaniiofifteen)
+- [YouTube](https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg/)
+
 ## 📋 Note
 
 <a href="https://count.getloli.com/">
@@ -289,6 +303,7 @@
 
 - I would be glad if you give star in this repo and if many like it, maybe I will make another version
 - DDLC, Touhou Project, and Vocaloid version made by my friend [Juan Angeles Hernandez](https://github.com/JohnKun136NVCP), I'm just giving suggestions and improving it a bit
-- And version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip)
+- Version of VTuber Kobo Kanaeru made by my friend [Abu Mushonnip](https://github.com/mushonnip), And version of VTuber Airani Iofifteen made by my friend [Japar Sidik](https://github.com/Jersk41)
 - Because Touhou Project games do not have official websites, so we only include the website link of the game variant for copyright
+- If you want to see an HD pict just click on the image, it will redirect to the [DeviantArt](https://www.deviantart.com/) website
 - I'm really confused about what version to make next
