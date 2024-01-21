@@ -1,4 +1,5 @@
-# Copyright (C) 2021 Andi Trisna Mukti - 13atm01
+# Copyright (C) 2024 Andi Trisna Mukti - 13atm01
+# Copyright (C) 2024 Japar Sidik - Jersk41
 # GRUB2 gfxmenu Linux theme
 
 # Global Property
@@ -17,8 +18,8 @@ message-color: "#ff97c8"
 
 # Show the boot menu
 + boot_menu {
-  left = 10%
-  top = 33%
+  left = 10%+3
+  top = 31%
   width = 52%
   height = 58%
   item_font = "Terminus Regular Bold 16"
@@ -36,7 +37,7 @@ message-color: "#ff97c8"
 # Show progress
 + progress_bar {
   left = 6%+2
-  top = 89%
+  top = 88%
   height = 30
   width = 60%+2
   font = "Terminus Regular 16"
