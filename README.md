@@ -191,6 +191,9 @@
     ```
     sudo update-grub
     ```
+    ```sh
+    sudo grub-mkconfig -o /boot/grub/grub.cfg      #if you use Arch, use this instead "sudo update-grub"
+    ```
  - Reboot your PC
 
 ### :two: <b>Second installation way</b>
@@ -205,6 +208,9 @@
     ```
     ```
     sudo update-grub
+    ```
+    ```sh
+    sudo grub-mkconfig -o /boot/grub/grub.cfg      #if you use Arch, use this instead "sudo update-grub"
     ```
 - Reboot your PC
 
@@ -223,6 +229,9 @@
     ```
     ```
     sudo update-grub
+    ```
+    ```sh
+    sudo grub-mkconfig -o /boot/grub/grub.cfg      #if you use Arch, use this instead "sudo update-grub"
     ```
 - Reboot your PC
 
