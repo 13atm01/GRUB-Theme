@@ -1,3 +1,36 @@
+## 🔖 Contents
+
+- <b>[🖥️ GRUB Themes](#grub-themes)</b>
+
+  - [💮 The Quintessential Quintuplets](#grub-themes)
+    - [Original Version](#art-preview-theme-)
+    - [Christmas Version](#1)
+  - [💮 VTuber Version](#2)
+  - [💮 Fate series Version](#3)
+    - [Artoria Pendragon Version](#art-preview-theme-artoria-pendragon)
+    - [Illyasviel von Einzbern Version](#art-preview-theme-illyasviel-von-einzbern)
+    - [Tohsaka Rin Version](#art-preview-theme-tohsaka-rin)
+    - [Matou Sakura Version](#art-preview-theme-matou-sakura)
+    - [Leonardo da Vinci Version](#art-preview-theme-leonardo-da-vinci)
+    - [Mash Kyrielight Version](#art-preview-theme-mash-kyrielight)
+    - [Okita Souji Version](#art-preview-theme-okita-souji)
+  - [💮 Doki Doki Literature Club Version](#4)
+  - [💮 Touhou Project Version](#5)
+  - [💮 Vocaloid Version](#6)
+
+- <b>[🔧 Installation](#wrench-installation)</b>
+  - [First installation way](#one-first-installation-way)
+  - [Second installation way](#two-second-installation-way)
+  - [Third installation way](#three-third-installation-way)
+
+- <b>[©️ Copyright and Thanks note 💝](#gift_heart-thanks-to)</b>
+
+- <b>[📋 Notes](#-notes)</b>
+
+---
+
+###### *<p align="right"><sub>GRUB Themes</sub></p>*
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-880174602" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dek172i-82303396-6927-4048-8c92-4222cb722982.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGVrMTcyaS04MjMwMzM5Ni02OTI3LTQwNDgtOGM5Mi00MjIyY2I3MjI5ODIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.o-QjIt9rOwQ-sWPnxPvjcgwxo7KWvpBfuWYVBfD5dv8" width="82%"></a>
 </p>
@@ -17,6 +50,8 @@
 </p>
 
 ---
+
+###### <p align="right"><sub>1</sub></p>
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Christmas-Version-901853972" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dewxuz8-9c5b3f64-14cc-4a4d-98c6-e4822f15c23d.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGV3eHV6OC05YzViM2Y2NC0xNGNjLTRhNGQtOThjNi1lNDgyMmYxNWMyM2QucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hh1PQ7S9Y4vqD3J10tG3f_AEq9DBn3la7ZqfIdT_96A" width="47%"></a>
@@ -38,6 +73,8 @@
 
 ---
 
+###### <p align="right"><sub>2</sub></p>
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-VTuber-version-912599545" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df3c6bd-b424792c-6ad2-45a9-838f-9d80bf215259.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGYzYzZiZC1iNDI0NzkyYy02YWQyLTQ1YTktODM4Zi05ZDgwYmYyMTUyNTkucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.U4rBsMDu-w8gQhkdu9S_95rQRB3SWzeNiwpAbB6jUyM" width="62%"></a>
 </p>
@@ -53,6 +90,8 @@
 </p>
 
 ---
+
+###### <p align="right"><sub>3</sub></p>
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Fate-Series-version-921845338" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/df8ucey-8654e856-7a32-4abb-9fa2-a8d939833d6f.png/v1/fill/w_1267,h_631,strp/grub_theme__fate_series_version__by_13andi01_df8ucey-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjE2NCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGY4dWNleS04NjU0ZTg1Ni03YTMyLTRhYmItOWZhMi1hOGQ5Mzk4MzNkNmYucG5nIiwid2lkdGgiOiI8PTQzNDMifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.AvVKrxv4LuAVIou4GxSFe-NVlo8ucVM2QSmc4qPOSi4" width="85%"></a>
@@ -115,6 +154,8 @@
 
 ---
 
+###### <p align="right"><sub>4</sub></p>
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-DDLC-Plus-Version-931734173" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfeqaot-0083f761-dbe5-4f02-bcbf-c512bb730944.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZlcWFvdC0wMDgzZjc2MS1kYmU1LTRmMDItYmNiZi1jNTEyYmI3MzA5NDQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kDIgCevYFCNEyWpvdhtRjvK7TOklxKjrhX_pLRLDJpA" width="62%"></a>
 </p>
@@ -135,6 +176,8 @@
 
 ---
 
+###### <p align="right"><sub>5</sub></p>
+
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Touhou-Project-Version-957825056" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dfu9ijk-48a624e8-0e44-4133-95b6-ed8f9392473b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGZ1OWlqay00OGE2MjRlOC0wZTQ0LTQxMzMtOTViNi1lZDhmOTM5MjQ3M2IucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.nxiokCkZuaVfEgHMeFfW2fUTUQLJo5vb8TxK8IBxTqw" width="72%"></a>
 </p>
@@ -146,6 +189,8 @@
 </p>
 
 ---
+
+###### <p align="right"><sub>6</sub></p>
 
 <p align="center">
 <a href="https://www.deviantart.com/13andi01/art/GRUB-Theme-Vocaloid-Version-985037601" title="🇮🇩 Thanks a lot for supporting me 🙂"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1e66b7e7-6690-440a-a71b-826e8081974a/dgagrvl-1309d4a6-910c-4edf-bad3-56bd0de4614b.png/v1/fill/w_1135,h_704/grub_theme__vocaloid_version__by_13andi01_dgagrvl-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTI0MCIsInBhdGgiOiJcL2ZcLzFlNjZiN2U3LTY2OTAtNDQwYS1hNzFiLTgyNmU4MDgxOTc0YVwvZGdhZ3J2bC0xMzA5ZDRhNi05MTBjLTRlZGYtYmFkMy01NmJkMGRlNDYxNGIucG5nIiwid2lkdGgiOiI8PTIwMDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.RXjHrV8ozBs_1Fl0wtAmHo_eKAuTfUPvYJcWd5JgRVI" width="62%"></a>
@@ -304,7 +349,7 @@
 - [Twitter](https://twitter.com/airaniiofifteen)
 - [YouTube](https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg/)
 
-## 📋 Note
+## 📋 Notes
 
 <a href="https://count.getloli.com/">
     <img src="https://count.getloli.com/get/@GRUB-Theme.github?theme=rule34" title="🇮🇩 Thanks a lot for supporting me 🙂" alt="13atm01" align="right">
