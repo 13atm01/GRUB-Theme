@@ -361,3 +361,7 @@
 - Because Touhou Project games do not have official websites, so we only include the website link of the game variant for copyright
 - If you want to see an HD pict just click on the image, it will redirect to the [DeviantArt](https://www.deviantart.com/) website
 - I'm really confused about what version to make next
+
+<p align="center">
+  <a href="#-contents"><kbd> <br> Back to Top <br> </kbd></a>
+</p>
