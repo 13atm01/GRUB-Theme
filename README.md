@@ -316,8 +316,6 @@
 - [Pling](https://www.pling.com/)
 - [Gnome-Look](https://www.gnome-look.org/)
 - [DeviantArt](https://www.deviantart.com/)
-- [Linuxer Desktop Art](https://www.facebook.com/groups/linuxart/)
-- [Linux Indonesia](https://www.facebook.com/groups/2628445374043698/)
 
 ## :gift_heart: And big thanks to
 
