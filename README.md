@@ -1,5 +1,7 @@
 ## 🔖 Contents
 
+<a href="https://cutecafe.art/gif/hololive-gif/kobo-kuru-kuru-kururin/"><img src="https://cutecafe.art/wp-content/uploads/2023/06/Kuru-Kuru-Kururin-kobo-kanaeru-Hololive.gif" width="40%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
+
 - <b>[🖥️ GRUB Themes](#grub-themes)</b>
 
   - [💮 The Quintessential Quintuplets](#grub-themes)
@@ -332,7 +334,7 @@
 - [Hololive ID](https://www.youtube.com/channel/UCfrWoRGlawPQDQxxeIDRP0Q/)
 - [Family Renders](https://www.familyrenders.com/)
 - [Fandom Website](https://www.fandom.com/)
-
+- [CuteCafe](https://cutecafe.art/)
 
 ### My Friend Chen Si Jing(a.k.a.星月なるこ)
 
