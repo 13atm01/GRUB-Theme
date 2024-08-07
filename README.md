@@ -383,6 +383,7 @@
 - Because Touhou Project games do not have official websites, so we only include the website link of the game variant for copyright
 - If you want to see an HD pict just click on the image, it will redirect to the [DeviantArt](https://www.deviantart.com/) website
 - New version is Lycoris Recoil version from the anime Lycoris Recoil
+- If you're using Kali Linux and the theme you installed not working, please see this [Issues](https://github.com/13atm01/GRUB-Theme/issues/20) to solve it
 
 <p align="center">
   <a href="#-contents"><kbd> <br> Back to Top <br> </kbd></a>
