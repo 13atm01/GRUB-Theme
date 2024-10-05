@@ -341,6 +341,8 @@
 - [Twitter](https://twitter.com/naruko_hstk)
 - [GitHub](https://github.com/naruko-hstk)
 
+<a href="https://github.com/dsrkafuu/sakana-widget"><img src="https://raw.githubusercontent.com/dsrkafuu/sakana-widget/main/src/characters/takina.png" width="43%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
+
 ### My Friend Juan Angeles Hernandez
 
 - [Twitter](https://twitter.com/JohnWilliamBn)
