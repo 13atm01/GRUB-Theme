@@ -303,7 +303,7 @@
 
 ## :gift_heart: Thanks to
 
-<a href="https://www.deviantart.com/13andi01"><img src="https://i.ibb.co/1R2BgfK/Quintuples07.png" width="60%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
+<a href="https://ibb.co.com/d9K04F3"><img src="https://i.ibb.co.com/MTNDkrj/Quintuples07.png" width="60%" title="🇮🇩 Thanks a lot for supporting me 🙂" align="right"></a>
 
 - [The Quintessential Quintuplets](https://www.tbs.co.jp/anime/5hanayome/)
 - [Doki Doki Literature Club Plus!](https://ddlc.plus/)
