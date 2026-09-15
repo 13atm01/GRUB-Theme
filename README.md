@@ -247,8 +247,12 @@
  - Change to the directory you want to install, for eg:
 
     ```
-    cd "Nakano Miku"
+    cd "Lycoris Recoil"
     ```
+    ```
+    cd "Nishikigi Chisato"
+    ```
+    
  - Setup the new GRUB
 
     ```sh
